@@ -1,0 +1,17 @@
+0000000000000000000000000000000000000000 3fdf7d2fe775e4046d2c99c094281d95c2fe0ed1 Dez <dez@DirePhoenix.(none)> 1697062271 -0500	branch: Created from HEAD
+3fdf7d2fe775e4046d2c99c094281d95c2fe0ed1 44894eee7d30d72ea114e436d8b2197ecfd76362 Desmond Ford <dfor156@wgu.edu> 1697062506 -0500	commit: README created
+44894eee7d30d72ea114e436d8b2197ecfd76362 f09644707c20b734a947642d6830e076320d1aec Desmond Ford <dfor156@wgu.edu> 1697065542 -0500	commit: UI Changes Made
+f09644707c20b734a947642d6830e076320d1aec 5656354e2d8f45b1953687dcdd76d8879b080f69 Desmond Ford <dfor156@wgu.edu> 1697067733 -0500	commit: UI Changes Made
+5656354e2d8f45b1953687dcdd76d8879b080f69 b08e17631fb60b2d9de2cadc486868d6435b0133 Desmond Ford <dfor156@wgu.edu> 1697067776 -0500	commit: Added About Page
+b08e17631fb60b2d9de2cadc486868d6435b0133 0cebd6f0d66684ef3e8ea7783b213ceedbd68f9d Desmond Ford <dfor156@wgu.edu> 1697067898 -0500	commit: Added About Page
+0cebd6f0d66684ef3e8ea7783b213ceedbd68f9d 25a79875dc8c1043c19e1659ae7f6cc4b94b70cf Desmond Ford <dfor156@wgu.edu> 1697161579 -0500	commit: Added About Page
+25a79875dc8c1043c19e1659ae7f6cc4b94b70cf 1b21360317f4577fb5322eff6c33486e17a69366 Desmond Ford <dfor156@wgu.edu> 1697161678 -0500	commit (amend): Added Data
+1b21360317f4577fb5322eff6c33486e17a69366 420f239d13eeead4f0c1638d9654a43ef0768979 Desmond Ford <dfor156@wgu.edu> 1697163507 -0500	commit: Added Buy Now button.
+420f239d13eeead4f0c1638d9654a43ef0768979 84c9433da01db557fff95c37f3defff06e7ffd65 Desmond Ford <dfor156@wgu.edu> 1697924839 -0500	commit: Progress on part G
+84c9433da01db557fff95c37f3defff06e7ffd65 df6c749674bcccb69fa736b80716c64d6f0ac2cd Desmond Ford <dfor156@wgu.edu> 1698968706 -0500	commit: Successfully added bootstrap inventory on startup
+df6c749674bcccb69fa736b80716c64d6f0ac2cd e4892831ce4cdfb6e20e795a3bb3658af62a5980 Desmond Ford <dfor156@wgu.edu> 1698968902 -0500	commit: Successfully added bootstrap inventory on startup
+e4892831ce4cdfb6e20e795a3bb3658af62a5980 d004d59b80778bad3649e89d1e34b0e054e33113 Desmond Ford <dfor156@wgu.edu> 1698968963 -0500	commit (amend): Added Minimum and Maximum values
+d004d59b80778bad3649e89d1e34b0e054e33113 e447c418e23449fcaca314b566772bd290f5c053 Desmond Ford <dfor156@wgu.edu> 1698968996 -0500	commit: Added validation for minimum and maximum values
+e447c418e23449fcaca314b566772bd290f5c053 a408b1d7bd6f13add70ce651a3ee3d03d4e21ad7 Desmond Ford <dfor156@wgu.edu> 1698971315 -0500	commit: Added unit tests for min and max values
+a408b1d7bd6f13add70ce651a3ee3d03d4e21ad7 2d0ca6488b5ffc4b2e666768ff6f79a42e9da534 Desmond Ford <dfor156@wgu.edu> 1699155226 -0500	commit: Fixed Buy Now
+2d0ca6488b5ffc4b2e666768ff6f79a42e9da534 110e30b306bd24d6430d561d26b21c0bec27d3cf Desmond Ford <dfor156@wgu.edu> 1699156810 -0500	commit: Added Validation for Part subtraction
